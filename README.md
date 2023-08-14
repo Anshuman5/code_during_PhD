@@ -10,5 +10,5 @@ You can refer to the [formation energy paper](https://www.sciencedirect.com/scie
 More comprehensive code with jupyter notebook is available at https://github.com/Anshuman5/metadynamics.
 For more details, you can read this work [here](https://www.mdpi.com/1420-3049/28/3/1277).
 
- 
+I will be updating this repo to include works related with electronic structure.
   
